@@ -1,29 +1,51 @@
-# Hi, I'm Garima Joshi 👋
+# CodeAlpha C Programming Projects
 
-🎓 First-Year Computer Science Student
+This repository contains C programming projects completed as part of my learning journey and CodeAlpha tasks.
 
-💻 Currently Learning:
-- C Programming
-- Python
+## Projects
 
-🚀 Future Goals:
-- Master C++
-- Learn Data Structures & Algorithms
-- Explore Object-Oriented Programming
-- Learn Backend Development
-- Build APIs and Backend Applications
-- Study Databases (MySQL/PostgreSQL)
+### 1. Student Management System
 
-📂 Projects:
-- Student Management System
-- Matrix Operations (Addition, Multiplication, Transpose)
-- Basic Calculator
+Features:
 
-🌱 Currently Improving:
-- Problem Solving
-- Programming Fundamentals
-- Git & GitHub
+* Add Student Records
+* Display Student Records
+* Search Student Information
+* Manage Student Data
 
-📫 Connect with Me:
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+### 2. Matrix Operations
+
+Features:
+
+* Matrix Addition
+* Matrix Multiplication
+* Matrix Transpose
+* User Input for Matrices
+
+### 3. Basic Calculator
+
+Features:
+
+* Addition
+* Subtraction
+* Multiplication
+
+## Technologies Used
+
+* C Programming
+* Functions
+* Arrays
+* Structures
+* Matrix Manipulation
+
+## Learning Outcomes
+
+* Problem Solving
+* Function Design
+* Working with Arrays and Matrices
+* Data Management using Structures
+
+## Author
+
+Garima Joshi
+
