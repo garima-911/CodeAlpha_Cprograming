@@ -30,6 +30,16 @@ Features:
 * Subtraction
 * Multiplication
 
+# Bank Management System
+
+Features:
+
+• Create Account
+• Deposit Money
+• Withdraw Money
+• Balance Enquiry
+• File Handling for Data Storage
+
 ## Technologies Used
 
 * C Programming
